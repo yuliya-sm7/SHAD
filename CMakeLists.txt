@@ -4,4 +4,4 @@ project(Algo)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Algo
-        DZ4.cpp)
+        DZD.cpp)
